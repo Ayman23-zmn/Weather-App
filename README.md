@@ -1,2 +1,5 @@
 # Weather-App
-An application that displays weather status based on city/country names
+I used HTML, CSS and Javascript to build this weather application. 
+
+## Api used
+OpenWeatherMap: Link [https://openweathermap.org/]
